@@ -1,0 +1,14 @@
+{
+    "name":"leanswift2/demo",
+    "type":"magento-module",
+	"licence": "mit",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Prabhushankar2810/compos-demo"
+        }
+    ],
+	"require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
