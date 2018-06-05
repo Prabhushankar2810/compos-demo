@@ -10,5 +10,11 @@
     ],
 	"require":{
         "magento-hackathon/magento-composer-installer":"*"
-    }
+    },
+	"map": [
+      [
+        "app/code/LeanSwift/Multiwarehouse",
+        "app/code/LeanSwift/Multiwarehouse"
+      ]
+      ]
 }
